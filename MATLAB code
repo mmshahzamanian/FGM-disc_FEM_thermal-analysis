@@ -1,3 +1,7 @@
+% Finite element profram to perform a thermal analysis for functionally graded materials (FGMs)
+% Written by: Mehdi Shahzamanian, Mechanical Engineering Department 
+% Texas A&M University, USA, mmshahzamanian@gmail.com
+%-----------------------------------------------------------------------
 clear; 
 clc;
 %input data for control parameters
